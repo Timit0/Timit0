@@ -12,6 +12,8 @@ I also enjoy using **Godot** to create 3D and 2D games.
 
 ## 📈 GitHub Stats & Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timit0&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timit0&theme=radical)
+
 
 ---
 
